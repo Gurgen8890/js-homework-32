@@ -1,0 +1,69 @@
+
+.disko {
+    border-radius:15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top:35px ;
+   
+    
+}
+
+.disk{
+    width: 70px;
+    height: 70px;
+    border-radius:40px;
+    border: 2px solid rgb(208, 23, 23);
+   
+}
+
+.disk1{
+    width: 70px;
+    height: 70px;
+    border-radius:40px;
+    border: 2px solid rgb(255, 0, 102);
+  
+}
+
+.disk2{
+    width: 70px;
+    height: 70px;
+    border-radius:40px;
+    border: 2px solid red;
+}
+
+.disk3{
+    width: 70px;
+    height: 70px;
+    border-radius:40px;
+    border: 2px solid rgb(102, 0, 255);
+}
+
+.disk4{
+    width: 70px;
+    height: 70px;
+    border-radius:40px;
+    border: 2px solid red;
+}
+
+.disk5{
+    width: 70px;
+    height: 70px;
+    border-radius:40px;
+    border: 2px solid rgb(38, 255, 0);
+}
+
+.disk6{
+    width: 70px;
+    height: 70px;
+    border-radius:40px;
+    border: 2px solid red;
+    color: rgb(80, 6, 6);
+}
+
+.play{    
+    height: 300px;
+    opacity: 0.5%;
+}
+
+
